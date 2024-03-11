@@ -1,8 +1,4 @@
 
-Refer to the `examples` directory for usage examples.
-
-### Contribution
-Contributions to DataVecTool are welcome! Please refer to the contribution guidelines for more information.
 
 ## 中文
 

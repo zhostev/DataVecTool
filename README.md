@@ -15,7 +15,9 @@ DataVecTool 是一个旨在支持机器学习模型训练的各类数据加载�
 要开始使用 DataVecTool，请克隆仓库并安装所需的依赖项：
 
 git clone https://example.com/DataVecTool.git
+
 cd DataVecTool
+
 pip install -r requirements.txt
 
 
